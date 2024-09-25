@@ -50,7 +50,7 @@ This project provides an in-depth look at the electric 2- and 3-wheeler market i
 ![EV Sales Output](https://github.com/planwithdata/EV-Sales-India2024/blob/main/Data/Screenshots/EV_sales_output.png)
 
 ### Charging Stations and Battery Swapping Stations
-![Future EV Sales](https://github.com/planwithdata/EV-Sales-India2024/blob/main/Data/Screenshots/Future%20EV%20Sales%20Prediction.png)
+[Charging-stations-Heatmap](https://github.com/planwithdata/EV-Sales-India2024/blob/main/Data/Screenshots/delhi_station_density_heatmap.html)
 
 ### Answer: Charging Infrastructure in Delhi
 
@@ -108,6 +108,7 @@ This analysis estimates and distributes EV sales across Delhi sub-districts usin
 - The combination of population size and residential land use helps distribute EV sales in the absence of detailed sales data.
 
 ## Exploratory Data Analysis and Reporting [DELHI]
+![Future EV Sales](https://github.com/planwithdata/EV-Sales-India2024/blob/main/Data/Screenshots/Future%20EV%20Sales%20Prediction.png)
 
 - Fewer charging stations are located directly in residential areas, though many are situated nearby.
 - Notable areas like Delhi Cantonment and Mahipalpur have fewer charging stations, despite being central locations.
