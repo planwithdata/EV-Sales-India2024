@@ -47,10 +47,10 @@ This project provides an in-depth look at the electric 2- and 3-wheeler market i
 ## Assignment 1:
 
 ### EV Sales (Vendor)
-![EV Sales Output](C:/Users/risha/Downloads/EV_Analysis/Scripts/Assignment-Part2/Data/Processed Data/Screenshots/EV_sales_output.png)
+![EV Sales Output](https://github.com/planwithdata/EV-Sales-India2024/blob/main/Data/Screenshots/EV_sales_output.png)
 
 ### Charging Stations and Battery Swapping Stations
-![Charging Stations Map](C:\Users\risha\Downloads\EV_Analysis\Data\delhi_station_density_heatmap.html)
+![Charging Stations Map](https://github.com/planwithdata/EV-Sales-India2024/blob/main/Data/Screenshots/delhi_station_density_heatmap.html)
 
 ### Answer: Charging Infrastructure in Delhi
 
@@ -75,7 +75,7 @@ We can see observations clearly upon observing the map:
 
 Collected and mapped POI, RTOs, prospective EV sales locations as a heatmap, and performed a final spatial and exploratory analysis on Delhi to investigate charging infrastructure and EV sales.
 
-![Delhi Sub-District EV Sales Distribution](C:\Users\risha\Downloads\EV_Analysis\Scripts\Assignment-Part2\Data\Processed Data\Screenshots\Spatial-Analysis-Delhi.png)
+![Delhi Sub-District EV Sales Distribution](https://github.com/planwithdata/EV-Sales-India2024/blob/main/Data/Screenshots/EV_sales_POI_RTOs_map_corrected.html)
 
 ### Reasoning for EV Sales Distribution:
 
@@ -116,9 +116,9 @@ This analysis estimates and distributes EV sales across Delhi sub-districts usin
 - Future analysis, utilizing detailed on-road data, could further refine the accessibility of charging stations.
 
 
-![Future EV Sale Regions] (C:\Users\risha\Downloads\EV_Analysis\Scripts\Assignment-Part2\Data\Processed Data\Screenshots\Future EV Sales Prediction.png)
+![Future EV Sale Regions] (https://github.com/planwithdata/EV-Sales-India2024/blob/main/Data/Screenshots/Future%20EV%20Sales%20Prediction.png)
 
-Make sure to read the comments at the top of the scripts for directions on how to run. Most reuire a single or no file to run. 
+Make sure to read the comments at the top of the scripts for directions on how to run. Most require a single or no file to run. 
 
 Thankyou!
 
