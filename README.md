@@ -50,7 +50,7 @@ This project provides an in-depth look at the electric 2- and 3-wheeler market i
 ![EV Sales Output](https://github.com/planwithdata/EV-Sales-India2024/blob/main/Data/Screenshots/EV_sales_output.png)
 
 ### Charging Stations and Battery Swapping Stations
-![Charging Stations Map](https://github.com/planwithdata/EV-Sales-India2024/blob/main/Data/Screenshots/Future%20EV%20Sales%20Prediction.png)
+![Future EV Sales](https://github.com/planwithdata/EV-Sales-India2024/blob/main/Data/Screenshots/Future%20EV%20Sales%20Prediction.png)
 
 ### Answer: Charging Infrastructure in Delhi
 
