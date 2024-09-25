@@ -50,7 +50,7 @@ This project provides an in-depth look at the electric 2- and 3-wheeler market i
 ![EV Sales Output](https://github.com/planwithdata/EV-Sales-India2024/blob/main/Data/Screenshots/EV_sales_output.png)
 
 ### Charging Stations and Battery Swapping Stations
-![Charging Stations Map](https://github.com/planwithdata/EV-Sales-India2024/blob/main/Data/Screenshots/delhi_station_density_heatmap.html)
+![Charging Stations Map](https://github.com/planwithdata/EV-Sales-India2024/blob/main/Data/Screenshots/Future%20EV%20Sales%20Prediction.png)
 
 ### Answer: Charging Infrastructure in Delhi
 
@@ -75,7 +75,7 @@ We can see observations clearly upon observing the map:
 
 Collected and mapped POI, RTOs, prospective EV sales locations as a heatmap, and performed a final spatial and exploratory analysis on Delhi to investigate charging infrastructure and EV sales.
 
-![Delhi Sub-District EV Sales Distribution](https://github.com/planwithdata/EV-Sales-India2024/blob/main/Data/Screenshots/EV_sales_POI_RTOs_map_corrected.html)
+[Open Delhi Sub-District EV Sales Distribution Map](https://github.com/planwithdata/EV-Sales-India2024/raw/main/Data/Screenshots/EV_sales_POI_RTOs_map_corrected.html)
 
 ### Reasoning for EV Sales Distribution:
 
