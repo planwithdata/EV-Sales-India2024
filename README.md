@@ -116,7 +116,7 @@ This analysis estimates and distributes EV sales across Delhi sub-districts usin
 - Future analysis, utilizing detailed on-road data, could further refine the accessibility of charging stations.
 
 
-![Future EV Sale Regions] (https://github.com/planwithdata/EV-Sales-India2024/blob/main/Data/Screenshots/FutureEVSalesPrediction.png)
+![Spatial Analysis - Delhi] (https://github.com/planwithdata/EV-Sales-India2024/blob/main/Data/Screenshots/Spatial-Analysis-Delhi.png)
 
 Make sure to read the comments at the top of the scripts for directions on how to run. Most require a single or no file to run. 
 
