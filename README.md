@@ -75,7 +75,7 @@ We can see observations clearly upon observing the map:
 
 Collected and mapped POI, RTOs, prospective EV sales locations as a heatmap, and performed a final spatial and exploratory analysis on Delhi to investigate charging infrastructure and EV sales.
 
-[Open Delhi Sub-District EV Sales Distribution Map](https://github.com/planwithdata/EV-Sales-India2024/raw/main/Data/Screenshots/EV_sales_POI_RTOs_map_corrected.html)
+[Open Delhi Sub-District EV Sales Distribution Map](https://github.com/planwithdata/EV-Sales-India2024/blob/main/Data/Screenshots/EV_sales_POI_RTOs_map_corrected.html)
 
 ### Reasoning for EV Sales Distribution:
 
@@ -116,7 +116,7 @@ This analysis estimates and distributes EV sales across Delhi sub-districts usin
 - Future analysis, utilizing detailed on-road data, could further refine the accessibility of charging stations.
 
 
-![Future EV Sale Regions] (https://github.com/planwithdata/EV-Sales-India2024/blob/main/Data/Screenshots/Future%20EV%20Sales%20Prediction.png)
+![Future EV Sale Regions] (https://github.com/planwithdata/EV-Sales-India2024/blob/main/Data/Screenshots/FutureEVSalesPrediction.png)
 
 Make sure to read the comments at the top of the scripts for directions on how to run. Most require a single or no file to run. 
 
