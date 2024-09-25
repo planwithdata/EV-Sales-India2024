@@ -1,0 +1,76 @@
+
+# Key Results and Responses
+
+## Assignment 1:
+
+### EV Sales (Vendor)
+![EV Sales Output](C:/Users/risha/Downloads/EV_Analysis/Scripts/Assignment-Part2/Data/Processed Data/Screenshots/EV_sales_output.png)
+
+### Charging Stations and Battery Swapping Stations
+![Charging Stations Map](C:\Users\risha\Downloads\EV_Analysis\Data\delhi_station_density_heatmap.html)
+
+### Answer: Charging Infrastructure in Delhi
+
+We can see observations clearly upon observing the map:
+- There are fewer charging stations/battery swapping stations in West Delhi and North Delhi compared to other parts.
+- These areas have residential zones, and hence EV sales could increase in these regions in the future.
+- Upon checking with Land use and overlaying the residential layer, it shows that the charging stations have been installed in the close vicinity of residential areas but not in residential areas themselves. They are situated near points of interest and high population areas.
+- While EVs can serve as a good alternative to Metros, we observe many charging stations installed near Metro routes. Hence, EV sales could penetrate areas where metro connectivity is limited.
+- Some charging stations are installed in lines, suggesting that they are located along main roads at intervals.
+
+## Assignment 2:
+
+- Imported data from 4 websites. Finalized 100 observations for the Multiple Linear Regression (MLR). Data still needs further processing for better analysis.
+
+### MLR Summary:
+
+- Answer: While the data from the websites still requires significant post-processing, the regression analysis shows useful results. We observe expected signs in most variables, though some deviations exist. The R-squared value is relatively low, indicating that the selected variables do not fully explain the relationship with EV prices. Future improvements could include searching for a broader spectrum of variables and cleaning the data more effectively.
+
+- Among the variables analyzed, Max Speed, Power, Kerb Weight, and Width showed a strong relationship with Price. Future predictions can be made when data that demonstrates statistical significance is available.
+
+## Assignment 3:
+
+Collected and mapped POI, RTOs, prospective EV sales locations as a heatmap, and performed a final spatial and exploratory analysis on Delhi to investigate charging infrastructure and EV sales.
+
+![Delhi Sub-District EV Sales Distribution](C:\Users\risha\Downloads\EV_Analysis\Scripts\Assignment-Part2\Data\Processed Data\Screenshots\Spatial-Analysis-Delhi.png)
+
+### Reasoning for EV Sales Distribution:
+
+This analysis estimates and distributes EV sales across Delhi sub-districts using residential land use and population data as proxies. Here’s how the process works:
+
+1. **Spatial Join of Residential Land Use and Sub-District Boundaries:**
+   A spatial join is performed between residential land use polygons and sub-district boundaries to determine which residential areas fall within each sub-district.
+
+2. **Calculate Residential Area:**
+   The residential area within each sub-district is calculated, representing potential EV buyers.
+
+3. **Sum Residential Area for Each Sub-District:**
+   Total residential area is aggregated within sub-districts, providing an estimate of residential capacity.
+
+4. **Population Weight Calculation:**
+   Population data is used to calculate a weight that reflects demand for EVs in each sub-district.
+
+5. **Combining Population and Residential Area Weights:**
+   A combined factor reflecting both population size and residential land use is used to distribute EV sales across sub-districts.
+
+6. **EV Sales Distribution:**
+   Total EV sales (200,000 in this case) are distributed proportionally across sub-districts based on the combined factor.
+
+7. **Visualization of EV Sales:**
+   A map visualizes the EV sales distribution, with darker shades representing higher estimated sales.
+
+### Key Assumptions:
+- **Population size** correlates with potential EV buyers.
+- **Residential land use** is an indicator of where EV sales might occur.
+- The combination of population size and residential land use helps distribute EV sales in the absence of detailed sales data.
+
+## Exploratory Data Analysis and Reporting [DELHI]
+
+- Fewer charging stations are located directly in residential areas, though many are situated nearby.
+- Notable areas like Delhi Cantonment and Mahipalpur have fewer charging stations, despite being central locations.
+- The expansion of charging stations in the last 2-3 years has rapidly increased Delhi’s readiness to adopt EVs.
+- Proximity analysis shows that West Delhi and North Delhi are underdeveloped in terms of charging infrastructure and could be the next regions for growth.
+- Future analysis, utilizing detailed on-road data, could further refine the accessibility of charging stations.
+
+
+![Future EV Sale Regions] (C:\Users\risha\Downloads\EV_Analysis\Scripts\Assignment-Part2\Data\Processed Data\Screenshots\Future EV Sales Prediction.png)
