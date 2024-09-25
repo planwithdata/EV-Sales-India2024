@@ -42,3 +42,7 @@ This project focuses on analyzing the electric vehicle (EV) market, specifically
 ## Conclusion
 This project provides an in-depth look at the electric 2- and 3-wheeler market in Delhi and the corresponding infrastructure that supports it. The insights gained from this analysis will help identify the growth trends and gaps in infrastructure, guiding further deployment of EV charging stations.
 
+Make sure to read the comments at the top of the scripts for directions on how to run. Most reuire a single or no file to run. 
+
+Thankyou!
+
