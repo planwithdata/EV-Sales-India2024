@@ -1694,6 +1694,19 @@
                     "geometry": {
                         "type": "Point",
                         "coordinates": [
+                            77.086711,
+                            28.710639
+                        ]
+                    },
+                    "properties": {
+                        "title": "DEL-FRN-P1-Street-Budh-Vihar-Phase1"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
                             77.31857,
                             28.60265
                         ]
